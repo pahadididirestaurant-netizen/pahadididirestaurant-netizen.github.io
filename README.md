@@ -1,4 +1,4 @@
-# MusicalEarTrainer public support site
+# Musical Ear: Play and Train public support site
 
 Static support, privacy policy and app-ads.txt only. No mobile app source, credentials, build files or unrelated project content belongs here.
 
